@@ -6,11 +6,11 @@ PIZZERIA is the business of selling delicious, freshly made pizzas to a diversec
 
 <h2>Business Objective</h2>
 1)Gain insights into customer behavior and preferences. <br>
-2) Identify peak hours and busiest days to optimize staffing and resources. 
-3) Determine the average number of pizzas per order and identify bestsellers.
-4) Analyze overall revenue and identify any seasonality in sales. 
-5) Evaluate the performance of individual pizzas and categories to optimize the menu.
-6) Develop targeted promotions or menu adjustments to increase sales and customer satisfaction.
+2) Identify peak hours and busiest days to optimize staffing and resources. <br>
+3) Determine the average number of pizzas per order and identify bestsellers.<br>
+4) Analyze overall revenue and identify any seasonality in sales. <br>
+5) Evaluate the performance of individual pizzas and categories to optimize the menu.<br>
+6) Develop targeted promotions or menu adjustments to increase sales and customer satisfaction.<br>
 
 ![pizza_1](https://github.com/nisha854/Pizzeria_Sales_Analysis/assets/67072192/bc631692-55bc-409a-a814-1b5013ea7585)
 ![pizza_2](https://github.com/nisha854/Pizzeria_Sales_Analysis/assets/67072192/a6d54ca5-0a72-4c55-aebe-477441b13ddb)
