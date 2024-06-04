@@ -5,7 +5,7 @@ This dataset contains a year's worth of sales data from a  pizza place. This dat
 PIZZERIA is the business of selling delicious, freshly made pizzas to a diversecustomer base. Our focus is on quality, variety, and exceptional customerservice to satisfy cravings and build loyalty. We prioritize efficient operations,menu innovation, and data-driven decision-making to stay competitive anddrive growth in the dynamic food industry. 
 
 <h2>Business Objective</h2>
-1)Gain insights into customer behavior and preferences. 
+1)Gain insights into customer behavior and preferences. <br>
 2) Identify peak hours and busiest days to optimize staffing and resources. 
 3) Determine the average number of pizzas per order and identify bestsellers.
 4) Analyze overall revenue and identify any seasonality in sales. 
